@@ -288,4 +288,6 @@ This project improved practical understanding of:
 
 # Note
 
-This project was created for learning and hands-on practice purposes to improve practical understanding of CI/CD workflows, Kubernetes, Azure DevOps, AKS, Docker, and ArgoCD.
+This project was implemented for learning and hands-on practice purposes by following DevOps/Kubernetes learning resources and tutorials.
+
+I personally configured the CI/CD workflow, worked on troubleshooting issues, deployed the application on AKS, and integrated ArgoCD for Continuous Delivery to improve my practical DevOps skills.
